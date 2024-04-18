@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="github.sergeds.swing.mvvm" type="repository">
+    <properties maven-id="com.github.sergeds:swing-mvvm:1.0.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/sergeds/swing-mvvm/1.0.0/swing-mvvm-1.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.11/commons-lang3-3.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reservations>
+  <reservation>
+    <id>15</id>
+    <numeClient>Madalina Pavel</numeClient>
+    <numarCamera>101</numarCamera>
+    <pret>1005.9</pret>
+    <email>madalinapavel@gmail.com</email>
+    <locatie>Cavo Tagoo Mykonos</locatie>
+  </reservation>
+  <reservation>
+    <id>16</id>
+    <numeClient>Madalina Pavel</numeClient>
+    <numarCamera>613</numarCamera>
+    <pret>1000.0</pret>
+    <email>madalinapavel@gmail.com</email>
+    <locatie>Cavo Tagoo Mykonos</locatie>
+  </reservation>
+</reservations>
